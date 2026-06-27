@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/flieg-mit-mir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Flieg mit mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flieg-mit-mir/) |
+| **Get License** | [Get License For Flieg mit mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flieg-mit-mir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `028ec847da1ff2ef3c0c37e8f8d1b003b153a8445f39ec86f71d2d1833c178bd` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

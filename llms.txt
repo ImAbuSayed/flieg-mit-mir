@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den Wagen, die Nacht ist noch jung, flieg mit mir
+> Lass die Stadt hinter uns, ich will heute nur zu dir
+> Dein Blick ist wie Feuer, er verbrennt meine Haut
+> Wir tauchen tief ab, wenn die Welt nicht mehr schaut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `028ec847da1ff2ef3c0c37e8f8d1b003b153a8445f39ec86f71d2d1833c178bd` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
