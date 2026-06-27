@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/flieg-mit-mir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Flieg mit mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flieg-mit-mir/) |
+| **Get License** | [Music Rights & Licensing for Flieg mit mir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flieg-mit-mir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den Wagen, die Nacht ist noch jung, flieg mit mir
+> Lass die Stadt hinter uns, ich will heute nur zu dir
+> Dein Blick ist wie Feuer, er verbrennt meine Haut
+> Wir tauchen tief ab, wenn die Welt nicht mehr schaut
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
